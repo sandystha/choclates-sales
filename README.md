@@ -35,6 +35,7 @@ This Power BI project provides a detailed analysis of chocolate sales across var
 
 ### Customer View  
 
+![customer View](customerview.png)
 
 ## 💡 About This Project  
 This analysis highlights key trends and actionable insights for chocolate sales. Feel free to explore, fork, and contribute!  
