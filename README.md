@@ -31,7 +31,7 @@ This Power BI project provides a detailed analysis of chocolate sales across var
 
 
 ### Product View  
-![Product View](ProductView.png)  
+![Product View](productview)  
 
 ### Customer View  
 
