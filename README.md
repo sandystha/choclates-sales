@@ -27,7 +27,7 @@ This Power BI project provides a detailed analysis of chocolate sales across var
 ## 🖼️ Preview  
 
 ### Default Dashboard View  
-![Default Dashboard View](Screenshots/Dashboard_DefaultView.png)  
+![Default Dashboard View](Screenshot 2025-01-04 204538.png)  
 
 ### Product View  
 ![Product View](Screenshots/ProductView.png)  
